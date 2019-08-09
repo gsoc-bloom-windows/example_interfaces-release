@@ -1,4 +1,0 @@
-Source: ros-dashing-example-interfaces
-Version: 0.7.1
-Description: Contains message and service definitions used by the examples.
-Build-Depends:
